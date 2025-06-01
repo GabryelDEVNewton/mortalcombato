@@ -2,6 +2,8 @@ import pygame
 import sys
 from fisica import Fisica
 
+#dedeveado
+
 pygame.init()
 #nada
 largura = 800
